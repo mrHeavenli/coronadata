@@ -12,3 +12,9 @@ The output will look something like this:
 ```json
 {'cases': 114427110, 'deaths': 2538469}
 ```
+
+## Dependencies
+Install dependencies:
+```shell
+pip install requests
+```
